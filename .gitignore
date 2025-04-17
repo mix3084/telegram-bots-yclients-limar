@@ -1,0 +1,8 @@
+.vscode/
+venv/
+__pycache__/
+logs/
+bot.log
+config.py
+user_memory.db
+main-old.py
